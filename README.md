@@ -16,7 +16,9 @@ Currently, the comments and other documentation in the source code are written s
 I apologize, but as I am underage according to Japanese law, I may not be able to respond to issues, pull requests, or discussions. Please understand in advance.  
 At the moment, this is a floppy boot disk for IBM PC-compatible machines equipped with 8088 or 8086 CPUs.  
 Due to quality concerns, I am unable to release the source code at this time.  
-Please be patient, and I appreciate your understanding.  
+Please be patient, and I appreciate your understanding.
+
+Last updated: Gregorian calendar, JST (UTC +9:00), Sunday, 14th December, 2025, 18:30 ( fluctuating by about 15 minutes.)
 
 ### 日本語
 本ソフトウェアは日本国の著作権法によって保護されています。  
@@ -33,3 +35,5 @@ Please be patient, and I appreciate your understanding.
 今の所、IBM PC(互換機含む)で8088又は8086以降のCPUを搭載した機種用のフロッピィ起動ディスクの段階です。  
 品質が十分でない為、現時点でソースコードを公開する事は出来ません。  
 暫くお待ち頂けます様お願い申し上げます。
+
+最終更新:グレゴリオ暦 JST(UTC +9:00) 令和7年12月14日 日曜日 18時30分 (15分程上下しています。)
