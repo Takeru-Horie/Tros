@@ -31,7 +31,7 @@ Last updated: Gregorian calendar, JST (UTC +9:00), Sunday, 14th December, 2025, 
 	(C) 1984~2025 Free Software Foundation, Inc.
 
 現時点では、ソースコードのコメント等が日本語のみで記述されており、訛りが含まれている部分が有りますが、何卒宜しくお願いします。  
-すいませんが自分は日本国の法律上未成年なのでIssuesやPull requests、Discussions等で返答できない事が有るかもしれません。予めご了承下さい。  
+すいませんが自分は日本国の法律上未成年なのでIssuesやPull requests、Discussions等で返答出来ない事が有るかもしれません。予めご了承下さい。  
 今の所、IBM PC(互換機含む)で8088又は8086以降のCPUを搭載した機種用のフロッピィ起動ディスクの段階です。  
 品質が十分でない為、現時点でソースコードを公開する事は出来ません。  
 暫くお待ち頂けます様お願い申し上げます。
