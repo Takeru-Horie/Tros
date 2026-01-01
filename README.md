@@ -36,4 +36,4 @@ This software is distributed in the hope that it will be useful, but WITHOUT ANY
 品質が十分でない為、現時点でソースコードを公開する事は出来ません。  
 暫くお待ち頂けます様お願い申し上げます。
 
-最終更新:グレゴリオ暦 JST(UTC +9:00) 令和7(2026)年1月1日 木曜日 19時0分 (15分程上下しています。)
+最終更新:グレゴリオ暦 JST(UTC +9:00) 令和8(2026)年1月1日 木曜日 19時0分 (15分程上下しています。)
