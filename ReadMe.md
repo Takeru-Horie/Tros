@@ -5,7 +5,7 @@
 ### English
 This software is protected by the copyright laws of Japan.  
 The software is licensed under version 3 of the GNU General Public License by default.  
-Additionally, this software is related to many open-source communities, including the Free Software Foundation’s GNU's Not Unix Project. (I might list the related open-source communities later.)  
+Additionally, this software is related to many open-source communities, including the Free Software Foundation’s GNU's Not Unix Project.  
 This software is displayed in accordance with version 3 of the GNU General Public License. (If any issues arise from using this software, we cannot take responsibility; however, future quality improvements and updates will be made as usual. Furthermore, unless there is a statement about a different license in the source code, the following terms will be applied. Additionally, since this software diverges significantly from the source software it is based on, all parts are treated as modified.)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
@@ -18,7 +18,7 @@ At the moment, this is a floppy boot disk for IBM PC-compatible machines equippe
 Due to quality concerns, I am unable to release the source code at this time.  
 Please be patient, and I appreciate your understanding.
 
-Last updated: Gregorian calendar, JST (UTC +9:00), Thursday, 1st January, 2026 (Reiwa 8), 19:00 ( fluctuating by about 15 minutes.)
+Last updated: Gregorian calendar, JST (UTC +9:00), Sunday, 11th January, 2026 (Reiwa 8), 19:30 ( fluctuating by about 15 minutes.)
 
 ### 日本語
 本ソフトウェアは日本国の著作権法によって保護されています。  
@@ -36,4 +36,4 @@ This software is distributed in the hope that it will be useful, but WITHOUT ANY
 品質が十分でない為、現時点でソースコードを公開する事は出来ません。  
 暫くお待ち頂けます様お願い申し上げます。
 
-最終更新:グレゴリオ暦 JST(UTC +9:00) 令和8(2026)年1月1日 木曜日 19時0分 (15分程上下しています。)
+最終更新:グレゴリオ暦 JST(UTC +9:00) 令和8(2026)年1月11日 日曜日 19時30分 (15分程上下しています。)
