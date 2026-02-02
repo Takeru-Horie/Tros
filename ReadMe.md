@@ -1,39 +1,23 @@
 # Tros
 
-(C) 2025 ~ 2026 堀江 健 / Copyright all rights reserved
+© 2025–2026 堀江 健 / Takeru Horie. All rights reserved.
 
-### English
-This software is protected by the copyright laws of Japan.  
-The software is licensed under version 3 of the GNU General Public License by default.  
-Additionally, this software is related to many open-source communities, including the Free Software Foundation’s GNU's Not Unix Project.  
-This software is displayed in accordance with version 3 of the GNU General Public License. (If any issues arise from using this software, we cannot take responsibility; however, future quality improvements and updates will be made as usual. Furthermore, unless there is a statement about a different license in the source code, the following terms will be applied. Additionally, since this software diverges significantly from the source software it is based on, all parts are treated as modified.)
+本ソフトウェアは日本国著作権法及び国際著作権法により保護されています。  
+本ソフトウェアはGNU一般公衆利用許諾契約書バージョン3 (GPLv3) に基づき配布されます。  
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
-This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.  
-(C) 1984 ~ 2026 Free Software Foundation, Inc.
-    
-Currently, the comments and other documentation in the source code are written solely in Japanese, and there may be some regional dialects included. I kindly ask for your understanding.  
-I apologize, but as I am underage according to Japanese law, I may not be able to respond to issues, pull requests, or discussions. Please understand in advance.  
-At the moment, this is a floppy boot disk for IBM PC-compatible machines equipped with 8088 or 8086 CPUs.  
-Due to quality concerns, I am unable to release the source code at this time.  
-Please be patient, and I appreciate your understanding.
+本ソフトウェアの著作権は著作者に帰属します。  
+本ソフトウェアのソースコード、ドキュメントおよび派生物は、原則としてGPLv3に従って再配布・改変可能です。  
+他のライセンス下で提供されているソースやライブラリが含まれる場合、その部分は当該ライセンスが優先されます。  
+本ソフトウェアの基となる既存ソフトウェアとソースコードの乖離が大きいため、実質的に全ての部分が独自改変されたものとして扱われます。
 
-Last updated: Gregorian calendar, JST (UTC +9:00), Sunday, 11th January, 2026 (Reiwa 8), 19:30 ( fluctuating by about 15 minutes.)
+> This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
+> This software is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.  
+> (C) 1984–2026 Free Software Foundation, Inc.
 
-### 日本語
-本ソフトウェアは日本国の著作権法によって保護されています。  
-本ソフトウェアには既定でGNU一般公衆利用許諾契約書バージョン3が適用されています。  
-本ソフトウェアはフリーソフトウェア財団のGNU's Not Unix Projectを始めとする多くのオープンソースコミュニティと関係が有ります。(もしかしたら後で関係の有るオープンソースコミュニティ一覧を出すかもしれません。)  
-本ソフトウェアはGNU一般公衆利用許諾契約書バージョン3に基づき以下の表示をしています。(本ソフトウェアを使用して不具合が生じた場合、此方側は責任を負いませんが、今後の品質改善更新は通常通り行います。又、ソースコード内に別のライセンスに関する記述が無い場合、以下の表示が適用されたとして扱います。更に、本ソフトウェアは基と為っているソフトウェアのソースとの乖離が非常に大きい為、総ての部分が改変されたとして扱います。)
+1. 本ソフトウェアの使用による損害、データ損失、ハードウェア障害等について、著作者は一切の責任を負いません。  
+2. 著作者は日本国の法律上未成年であるため、Issues、Pull Requests、Discussions等への対応が制限される場合があります。予めご了承ください。  
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.  
-This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.  
-(C) 1984 ~ 2026 Free Software Foundation, Inc.
+現時点では、Intel 8086 5MHz・Intel 8088 5MHz以降のプロセッサを搭載したIBM PC/AT(互換機含む)向けのフロッピィディスクドライブ起動の物を作っています。  
+現時点では、製品の品質は保証していません。  
 
-現時点では、ソースコードのコメント等が日本語のみで記述されており、訛りが含まれている部分が有りますが、何卒宜しくお願いします。  
-すいませんが自分は日本国の法律上未成年なのでIssuesやPull requests、Discussions等で返答出来ない事が有るかもしれません。予めご了承下さい。  
-今の所、IBM PC(互換機含む)で8088又は8086以降のCPUを搭載した機種用のフロッピィ起動ディスクの段階です。  
-品質が十分でない為、現時点でソースコードを公開する事は出来ません。  
-暫くお待ち頂けます様お願い申し上げます。
-
-最終更新:グレゴリオ暦 JST(UTC +9:00) 令和8(2026)年1月11日 日曜日 19時30分 (15分程上下しています。)
+最終更新: グレゴリオ暦 JST (UTC+9) 令和8(2026)年1月11日 日曜日 19:30 (±15分の誤差が有る場合が有ります。)
