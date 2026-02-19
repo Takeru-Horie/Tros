@@ -26,7 +26,7 @@ At present, no warranty of any kind is provided with regard to the quality of th
 
 Last updated:  
 Gregorian calendar, Japan Standard Time (UTC+9:00)  
-Saturday, 7 February 2026, 14:00 (An error margin of approximately ±15 minutes may apply.)
+Thursday, 19 February 2026, 19:30 (An error margin of approximately ±15 minutes may apply.)
 
 
 ## 日本語
@@ -53,4 +53,4 @@ IBM PC/AT (互換機を含む)向けの、フロッピィディスクドライ�
 
 最終更新:  
 グレゴリオ暦 日本標準時 (UTC+9:00)  
-令和8年 (2026年) 2月7日 土曜日 14:30 (±15分程度の誤差が生じる場合が有ります。) 
+令和8年 (2026年) 2月19日 木曜日 19:30 (±15分程度の誤差が生じる場合が有ります。) 
