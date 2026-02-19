@@ -20,7 +20,6 @@ This software has been substantially modified from the original underlying softw
 
 The author shall bear no responsibility or liability whatsoever for any damages, losses, data loss, hardware failure, or other harm arising out of or in connection with the use or inability to use this software.  
 This disclaimer is intended to be consistent with Sections 15 and 16 of the GNU General Public License and does not impose any additional restrictions or conditions beyond those set forth in GPLv3.  
-As the author is legally a minor under the laws of Japan, responses to Issues, Pull Requests, Discussions, or similar communications may be limited. Your understanding is appreciated.
 
 At present, this software is being developed as a program that boots from a floppy disk drive for the IBM PC/AT (including compatible systems) equipped with an Intel 8086 5 MHz or Intel 8088 5 MHz or later processor.
 At present, no warranty of any kind is provided with regard to the quality of this software.
@@ -47,7 +46,6 @@ Saturday, 7 February 2026, 14:00 (An error margin of approximately ±15 minutes 
 
 本ソフトウェアの使用または使用不能に起因して生じたいかなる損害、損失、データ消失、ハードウェア障害、其の他の不利益についても、著作者は一切の責任を負いません。  
 本免責事項は、GPLv3第15条および第16条に定められた無保証および責任制限条項と整合する事を意図した物であり、GPLv3に基づく権利または条件に対して、如何なる追加的制限を課すものではありません。  
-著作者は日本国の法律上の未成年者であるため、Issues、Pull Requests、Discussions等への対応が制限される場合があります。予めご了承ください。 
 
 現時点では、本ソフトウェアは Intel 8086 5MHz または Intel 8088 5MHz 以降のプロセッサを搭載した、  
 IBM PC/AT (互換機を含む)向けの、フロッピィディスクドライブから起動するソフトウェアとして開発されています。  
